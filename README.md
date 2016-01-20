@@ -13,7 +13,7 @@ Durant ces quelques années je suis intervenue en tant que **reponsable fonction
 * refonte de **sites web**
 * création d'**applications mobiles**
 * création de **e-magazine**
-* mise en place de **palteforme collaborative**
+* mise en place de **plateforme collaborative**
 
 ## Pourquoi je rejoins Simplon aujourd'hui?
 
@@ -25,7 +25,7 @@ Je pense qu'une formation technique serait un plus et c'est pour cela que je me 
 ### Mes attentes
 
 En effet, cela me permettrait :
-1. De mieux choisir mes partenaires dans l'avenir
-2. De mieux comprendre les problématiques liées à l'aspect technique
-3. De pouvoir participer efficacement aux réunions d'échanges
-4. Voire de développer moi même certains modules
+1. De mieux choisir mes partenaires dans l'avenir 
+2. De mieux comprendre les problématiques liées à l'aspect technique 
+3. De pouvoir participer efficacement aux réunions d'échanges 
+4. Voire de développer moi même certains modules 
